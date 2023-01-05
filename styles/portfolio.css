@@ -195,3 +195,40 @@ nav ul {
     margin-top: 50px;
     text-align: center;
 }
+/* }contact section */
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #e9d3d3;
+    margin-top: 30px;
+
+}
+.contact .section-title{
+    text-align: left;
+    padding: 80px 100px;
+}
+.contact .section-description{
+    padding: 100px;
+}
+.contact .section-description a{
+    margin-right: 40px;
+    font-size: 30px;
+}
+/* form */
+.form .input-form{
+    margin-top: 10px;
+    padding: 10px;
+
+}
+textarea{
+    margin-top: 20px;
+}
+.submit-btn{
+    font-size: 30px;
+    background: #FD6E0A;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+footer{
+    margin-bottom: 10px;
+}
