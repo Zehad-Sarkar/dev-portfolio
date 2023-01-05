@@ -163,3 +163,35 @@ nav ul {
     color: #757575;
 }
 /* resume */
+.resume-content{
+    display: flex;
+    gap: 24px   ;
+}
+.resume-title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+.resume-item{
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+}
+.title{
+    font-size: 22px;
+
+}
+.sub-title{
+    color: #757575;
+    font-weight: 600;
+    font-size: 18px;
+}
+.description{
+    color: #757575;
+}
+/* resume button */
+.resume-btn{
+    margin-top: 50px;
+    text-align: center;
+}
